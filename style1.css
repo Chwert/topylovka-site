@@ -26,7 +26,7 @@ header h1 a {
 }
 
 a:hover[title="Головна"] {
-	color: darkcyan;
+	color: blue;
 }
 
 input[type="text"] {
